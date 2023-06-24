@@ -1,8 +1,5 @@
-The Commands of the git whitch must be useful for you ! The export pictures on the 'images.pdf' file are avaible 
-
-
-1-git init --------> set git to your folder to start on your projects
-2-git status --------> See status of files witch one are in the git cloud witch one is not modified ( complate it please )
-3- git add --------> Add your file to git 
-4- git commit -m '' -----------> Send massage for your changes on your files
-5-git log -----> Watch the commit histories 
+1-git init  
+2-git status  
+3- git add 
+4- git commit -m ''
+5-git log 
