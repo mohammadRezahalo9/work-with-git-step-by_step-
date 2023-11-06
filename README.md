@@ -1,6 +1,7 @@
 # work_with_git_step_by_step
 Command's of git . combability to mac and Linux terminals 
 { Contiune to updates }
+![git-blog-header](https://github.com/mohammadRezahalo9/work-with-git-step-by_step-/assets/100828116/b6719287-a577-403a-a80a-2d4531002b04)
 
 _____________________________
 
@@ -15,4 +16,3 @@ _____________________________
 5-git log     -----> see your commit histories 
 
 
-![Alt text](https://images.app.goo.gl/oXc27HSKnVfr7Hmy9)
