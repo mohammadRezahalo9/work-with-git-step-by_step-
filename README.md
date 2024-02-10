@@ -1,5 +1,5 @@
 # work_with_git_step_by_step
-Command's of git . combability to mac and Linux terminals 
+Command's of git . 
 { Contiune to updates }
 ![git-blog-header](https://github.com/mohammadRezahalo9/work-with-git-step-by_step-/assets/100828116/b6719287-a577-403a-a80a-2d4531002b04)
 
